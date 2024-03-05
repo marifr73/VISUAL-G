@@ -1,4 +1,4 @@
-algoritmo "soma_dos_números_pares_de_1_até_500"
+algoritmo "soma_dos_nÃºmeros_pares_de_1_atÃ©_500"
 var
 
    cont, s: inteiro
@@ -16,6 +16,6 @@ inicio
 
    fimpara
 
-   escreva("A soma dos números pares de 1 a 500 é: ", s)
+   escreva("A soma dos nÃºmeros pares de 1 a 500 Ã©: ", s)
 
 fimalgoritmo
