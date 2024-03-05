@@ -1,9 +1,4 @@
-Algoritmo "Aprovado_ou_reprovado_por_média_7"
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 25/01/2024
+Algoritmo "Aprovado_ou_reprovado_por_mÃ©dia_7"
 Var
    n: caractere
    n1, n2, n3, x : real
@@ -23,11 +18,11 @@ Inicio
       x := (3/(1/n1 + 1/n2 + 1/n3))
 
       se (x >= 7) entao
-         escreval( n , " Você está aprovado!, com a media de ", x)
+         escreval( n , " VocÃª estÃ¡ aprovado!, com a media de ", x)
 
       senao
 
-         escreval( n , ", Você está reprovado!, com a media de ", x)
+         escreval( n , ", VocÃª estÃ¡ reprovado!, com a media de ", x)
          escreval("=================================================")
 
       fimse
