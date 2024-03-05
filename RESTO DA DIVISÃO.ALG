@@ -1,7 +1,4 @@
-Algoritmo "Resto_da_divisão"
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/01/2024
+Algoritmo "Resto_da_divisÃ£o"
 Var
  n, d:inteiro
 
@@ -13,15 +10,15 @@ escreva("Digite o denominador: ")
 leia(d)
 
 se (d = 0) entao
-escreva("Não é possivel fazer essa divisão!")
+escreva("NÃ£o Ã© possivel fazer essa divisÃ£o!")
 
 senao
 
 se (n % d = 0) entao
-escreva("É divisivel!")
+escreva("Ã‰ divisivel!")
 
 senao
-escreva("Não é divisivel!")
+escreva("NÃ£o Ã© divisivel!")
 
 fimse
 fimse
