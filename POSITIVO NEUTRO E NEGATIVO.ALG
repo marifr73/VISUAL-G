@@ -1,26 +1,21 @@
 Algoritmo "semnome"
-//
-//
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/01/2024
 Var
    n:inteiro
 
 Inicio
-   escreva("Digite um número: ")
+   escreva("Digite um nÃºmero: ")
    leia(n)
 
    se(n > 0) entao
-      escreva("O número é positivo! ")
+      escreva("O nÃºmero Ã© positivo! ")
 
    senao
 
       se(n = 0) entao
-         escreva("O número é neutro! ")
+         escreva("O nÃºmero Ã© neutro! ")
 
       senao
-         escreva("O número é negativo! ")
+         escreva("O nÃºmero Ã© negativo! ")
 
       fimse
    fimse
